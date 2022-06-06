@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvjiaxuan)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvjjiaxuan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvjiaxuan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lvjiaxuan/lvjiaxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
