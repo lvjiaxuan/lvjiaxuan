@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 1. I have finished [lvjiaxuan/type-challenges](https://github.com/lvjiaxuan/type-challenges).
-  - Automatically update README.md from org weekly.
-  - One script to create challenge file from READNE.md.
-  - I have my own solutions among some diffcult challenges.
+    - Automatically update README.md from org weekly.
+    - One script to create challenge file from READNE.md.
+    - I have my own solutions among some diffcult challenges.
 2. [lvjiaxuan/release](https://github.com/lvjiaxuan/release) is my own release tool.
 3. [lvjiaxuan/vscode-eslint-disable] maybe a handy application tool for you.
 4. ......
