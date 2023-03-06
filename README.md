@@ -6,7 +6,11 @@
     - I have my own solutions among some diffcult challenges.
 2. [lvjiaxuan/release](https://github.com/lvjiaxuan/release) is my own release tool.
 3. [lvjiaxuan/vscode-eslint-disable](https://github.com/lvjiaxuan/vscode-eslint-disable) may be a handy VSCode extension for you.
-4. ......
+4. [lvjiaxuan/eslint-config](https://github.com/lvjiaxuan/eslint-config)
+    - A monorepo includes **js/ts/vue** eslint config.
+    - **js->ts->vue**. These 3 packages include above package's config.
+    - Support flat config.
+6. ......
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvjiaxuan&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvjiaxuan&count_private=true&show_icons=true&theme=onedark&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
