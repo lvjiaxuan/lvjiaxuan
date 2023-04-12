@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-1. I try to keep up [lvjiaxuan/type-challenges](https://github.com/lvjiaxuan/type-challenges).
+1. I am keeping up with [lvjiaxuan/type-challenges](https://github.com/lvjiaxuan/type-challenges).
     - Automatically update README.md from [org](https://github.com/type-challenges/type-challenges) weekly.
     - One script to create challenge file from README.md.
     - I have my own solutions among some diffcult challenges.
