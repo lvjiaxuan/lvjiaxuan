@@ -1,11 +1,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvjiaxuan&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvjiaxuan&count_private=true&show_icons=true&theme=onedark&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 
-I have learned a few of coding philosophy from [@yyx990803](https://github.com/yyx990803) and [@antfu](https://github.com/antfu).
-
-like:
+Some coding philosophies from [@yyx990803](https://github.com/yyx990803) and [@antfu](https://github.com/antfu):
 - [on demand](https://cn.vitejs.dev/guide/why.html#slow-server-start)
 - [yak shaving](https://antfu.me/posts/about-yak-shaving)
 - [progress](https://www.youtube.com/watch?v=67Pha7sZ6l0)
 
-In my opinion, the most significant part is understanding your bigger picture so that you can identify your actual demands and shave your yak next.
+In my opinion, the most significant part is understanding your bigger/internal picture, fo you can identify your actual demands and shave your yak next.
+
+最近心得：先做出一堆屎，然后再慢慢优化它。
