@@ -8,6 +8,7 @@ Some coding philosophies from [@yyx990803](https://github.com/yyx990803) and [@a
 
 In my opinion, the most significant part is understanding your bigger/internal picture, fo you can identify your actual demands and shave your yak next.
 
-???
+Daily：
 1. 先做出一堆屎，然后再慢慢优化它。
 2. 想法并不那么重要，执行和营销才是成功的决定因素。
+3. now or never.
